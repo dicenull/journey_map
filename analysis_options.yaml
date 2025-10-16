@@ -1,0 +1,22 @@
+# https://pub.dev/packages/pedantic_mono
+include: package:pedantic_mono/analysis_options.yaml
+
+linter: 
+  rules:
+    sort_pub_dependencies: false
+
+analyzer:
+  errors:
+    await_only_futures: error
+    missing_required_param: error
+    map_value_type_not_assignable: error
+    invalid_assignment: error
+    invalid_use_of_visible_for_testing_member: error
+    invalid_use_of_protected_member: error
+    unrelated_type_equality_checks: error
+    invalid_annotation_target: ignore
+  exclude:
+    - '**/*.g.dart'
+    - '**/*.freezed.dart'
+    - '**/*.gr.dart'
+    - '**/*.generated.dart'
