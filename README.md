@@ -1,16 +1,5 @@
-# flutter_template
+# シェーダーでお絵描きできるアプリ
 
-A new Flutter project.
+表示できる点は100個まで
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="912" height="740" alt="スクリーンショット 2025-10-16 19 53 40" src="https://github.com/user-attachments/assets/6deb2110-6074-4b2f-8009-f7d8079233c1" />
